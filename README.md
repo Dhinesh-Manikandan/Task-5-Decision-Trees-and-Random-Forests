@@ -17,7 +17,6 @@ This project demonstrates how to use tree-based machine learning models (Decisio
 - [Dataset](#dataset)
 - [How to Run](#how-to-run)
 - [Key Features](#key-features)
-- [Project Structure](#project-structure)
 - [Results](#results)
 - [References](#references)
 
@@ -45,7 +44,7 @@ This project:
 ## Dataset
 
 - **heart disease.csv**: Contains patient data and a `target` column indicating heart disease presence.
-- Download a sample dataset from [Heart Disease Dataset]((https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/data)) or use your own.
+- Download a sample dataset from [Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/data) or use your own.
 
 ---
 
@@ -96,7 +95,7 @@ This project:
 ## References
 
 - [GPT](https://chatgpt.com/c/683d39fc-04b8-8009-8e90-5a79b62fd921)
-- [Perplexity]((https://www.perplexity.ai/search/what-is-decision-tree-PTjZKYhOTAqw6PShBXOGSw))
+- [Perplexity](https://www.perplexity.ai/search/what-is-decision-tree-PTjZKYhOTAqw6PShBXOGSw)
 
 
 ---
