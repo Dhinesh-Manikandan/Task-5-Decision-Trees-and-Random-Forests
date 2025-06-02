@@ -1,6 +1,6 @@
 # Task-5-Decision-Trees-and-Random-Forests
 
-Certainly! Here’s a clear and well-structured **README.md** file for your Decision Tree and Random Forest heart disease prediction project.
+Certainly! Here’s a clear and well-structured **README.md** file for Decision Tree and Random Forest heart disease prediction project.
 
 ---
 
